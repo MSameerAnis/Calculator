@@ -1,0 +1,25 @@
+.txt-center {
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.bg-red {
+    background-color: rebeccapurple;
+
+}
+
+
+
+.bg-darkblue {
+    background-color: darkblue;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.flex-col{
+    flex-direction: column;
+}
